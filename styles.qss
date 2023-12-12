@@ -1,0 +1,21 @@
+DraggableButton {
+    background-color: black;
+    border: 0px;
+    color: white;
+}
+
+DraggableLabel {
+    background-color: black;
+    border: 0px;
+    color: white;
+}
+
+RotatedLabel {
+    background-color: black;
+    border: 0px;
+    color: white;
+}
+
+QMainWindow {
+    background-color: rgb(100, 100, 100);
+}
